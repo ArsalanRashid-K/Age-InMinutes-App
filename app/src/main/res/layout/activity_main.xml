@@ -57,9 +57,10 @@ android:orientation="vertical"
         android:id="@+id/tvSelectedDate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="31.42.542."
+        android:text=""
         android:textColor="@color/textBlue"
-        android:textSize="20sp" />
+        android:textSize="20sp"
+        android:textStyle="bold"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -75,7 +76,7 @@ android:orientation="vertical"
         android:layout_width="wrap_content"
 
         android:layout_height="wrap_content"
-        android:text="1240000"
+        android:text=""
         android:textColor="@color/textBlue"
         android:textSize="24sp"
         android:textStyle="bold" />
